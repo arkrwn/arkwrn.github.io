@@ -2,7 +2,7 @@
 title: Official arkwrn_ Blog
 description: "An Official Blog of ARKWRN_"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://lidilidian.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://lidilidian.github.io"
 # User settings
 username: Lidilidian
 user_title: ARKWRN_ - Blog's

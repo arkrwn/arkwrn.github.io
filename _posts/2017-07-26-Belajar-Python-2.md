@@ -8,12 +8,11 @@ tags:
 description: ''
 categories:
 - Learn Python
+comments: true
 ---
 
 Setelah mengenal beberapa tipe data dasar di Python, kini saatnya Kalian menguasai konversi tipe di Python.
 Suatu tipe data dapat dikonversi lagi ke tipe data lain dengan menggunakan beberapa function berikut:
-
-<!--more-->
 
 -    chr(), mengubah angka ke karakter
 -    unichr(), mengubah angka ke karakter unicode
@@ -41,7 +40,7 @@ print(var4)
 print(var5)
 ```
 
-# Praktek -- (Online Editor)[https://repl.it/JluY/2]
+## Praktek -- (Online Editor)[https://repl.it/JluY/2]
 
-    + Silahkan jalankan kode di atas dan lihat apa hasilnya
-    + Silahkan ubah isi variabel angka dengan angka lain yang kalian suka
+- Silahkan jalankan kode di atas dan lihat apa hasilnya
+- Silahkan ubah isi variabel angka dengan angka lain yang kalian suka

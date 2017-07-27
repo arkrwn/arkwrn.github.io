@@ -51,7 +51,7 @@ result = x // y
 print(" x // y ", result)
 ```
 
-## Praktek -- (Online Editor)[https://repl.it/JluY/1]
+## Praktek -- ([Online Editor](https://repl.it/JluY/1))
 
 - Silahkan jalankan kode atas dan lihat outputnya
 - Silahkan buat variabel kalian sendiri dan terapkan salah satu operator diatas

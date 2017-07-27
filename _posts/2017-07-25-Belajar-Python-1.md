@@ -57,6 +57,6 @@ print (type(kalimat))
 pada kode diatas kita menggunakan fungsi print() untuk menampilkan output,
 sementara fungsi type() kita gunakan untuk mengetahui tipe data dari variabel yang ingin kita ketahui tipe datanya
 
-## Praktek -- (Online Editor)[https://repl.it/JluY/3]
+## Praktek -- ([Online Editor](https://repl.it/JluY/3))
   - Silahkan jalankan kode di atas dan lihat apa hasilnya
   - Silahkan buat variabel lain yang kalian ingin coba dengan tipe data yang ada pada kode di sebelah kanan. Dan lihat hasilnya.

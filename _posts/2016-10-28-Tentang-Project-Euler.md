@@ -8,6 +8,7 @@ tags:
 description: ''
 categories:
 - Sharing
+comments: true
 ---
 
 Proyek Euler (dinamai Leonhard Euler) adalah situs yang didedikasikan untuk serangkaian masalah komputasi dimaksudkan untuk diselesaikan dengan program komputer. Proyek ini menarik orang dewasa dan mahasiswa yang tertarik dalam matematika dan pemrograman komputer.

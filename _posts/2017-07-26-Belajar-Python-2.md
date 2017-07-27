@@ -40,7 +40,7 @@ print(var4)
 print(var5)
 ```
 
-## Praktek -- (Online Editor)[https://repl.it/JluY/2]
+## Praktek -- ([Online Editor](https://repl.it/JluY/2))
 
 - Silahkan jalankan kode di atas dan lihat apa hasilnya
 - Silahkan ubah isi variabel angka dengan angka lain yang kalian suka

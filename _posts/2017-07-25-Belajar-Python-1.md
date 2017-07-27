@@ -8,25 +8,24 @@ tags:
 description: ''
 categories:
 - Learn Python
+comments: true
 ---
 
 Untuk belajar Python, hal pertama yang harus kita ketahui adalah tipe data (*Data Type*)
 untuk itu mari kita mulai mengenali tipe data yang terdapat dalam bahasa pemrograman Python
 Python memiliki beberapa tipe data built-in atau bawaan yang cukup lengkap dan tidak sulit untuk digunakan.
 
-<!--more-->
-
 Beberapa tipe data yang wajib kalian ketahui di Python3 antara lain:
 
->int, tipe data yang dapat kalian isi dengan bilangan bulat
->float, tipe data yang dapat kalian isi dengan bilangan koma
->string, tipe data yang dapat kalian isi dengan sebuah karakter atau kalimat
->complex, tipe data yang dapat kalian isi dengan bilangan kompleks
->long, tipe data yang dapat kalian isi dengan bilangan yang sangat besar. Bisa lebih dari 1 milyar
->boolean, tipe data yang dapat kalian isi untuk mendukung operasi bool. Nilanya hanya True dan False
->list, tipe data mirip array yang bisa kalian isi dengan tipe data apapun dan dapat diubah
->tuple, tipe data mirip list tapi tidak dapat diubah
->dictionary, tipe data key-value yang sangat berguna bila ingin membuat tipe data yang cukup terstruktur
+- int, tipe data yang dapat kalian isi dengan bilangan bulat
+- float, tipe data yang dapat kalian isi dengan bilangan koma
+- string, tipe data yang dapat kalian isi dengan sebuah karakter atau kalimat
+- complex, tipe data yang dapat kalian isi dengan bilangan kompleks
+- long, tipe data yang dapat kalian isi dengan bilangan yang sangat besar. Bisa lebih dari 1 milyar
+- boolean, tipe data yang dapat kalian isi untuk mendukung operasi bool. Nilanya hanya True dan False
+- list, tipe data mirip array yang bisa kalian isi dengan tipe data apapun dan dapat diubah
+- tuple, tipe data mirip list tapi tidak dapat diubah
+- dictionary, tipe data key-value yang sangat berguna bila ingin membuat tipe data yang cukup terstruktur
 
 perhatikan kode berikut :
 
@@ -58,6 +57,6 @@ print (type(kalimat))
 pada kode diatas kita menggunakan fungsi print() untuk menampilkan output,
 sementara fungsi type() kita gunakan untuk mengetahui tipe data dari variabel yang ingin kita ketahui tipe datanya
 
-# Praktek -- (Online Editor)[https://repl.it/JluY/3]
-  + Silahkan jalankan kode di atas dan lihat apa hasilnya
-  + Silahkan buat variabel lain yang kalian ingin coba dengan tipe data yang ada pada kode di sebelah kanan. Dan lihat hasilnya.
+## Praktek -- (Online Editor)[https://repl.it/JluY/3]
+  - Silahkan jalankan kode di atas dan lihat apa hasilnya
+  - Silahkan buat variabel lain yang kalian ingin coba dengan tipe data yang ada pada kode di sebelah kanan. Dan lihat hasilnya.

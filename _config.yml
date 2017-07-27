@@ -1,8 +1,9 @@
 # Site settings
 title: Official arkwrn_ Blog
 description: "An Official Blog of ARKWRN_"
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+baseurl: ""
 url: "http://lidilidian.github.io"
+
 # User settings
 username: Lidilidian
 user_title: ARKWRN_ - Blog's
@@ -35,15 +36,16 @@ compress_html:
 # Links to include in menu navigation
 links:
   - title: home
-    url: /
+    url: 
   - title: my posts
-    url: /posts
+    url: posts
   - title: series
-    url: /series
+    url: series
   - title: tags
-    url: /tags
+    url: tags
   - title: about me
-    url: /about
+    url: about
+    
 # projects in header index
 projects:
   - name: asciilang

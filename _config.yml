@@ -1,0 +1,56 @@
+# Site settings
+title: Official arkwrn_ Blog
+description: "An Official Blog of ARKWRN_"
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+url: "http://lidilidian.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+# User settings
+username: Lidilidian
+user_title: ARKWRN_ - Blog's
+email: hubungi.aja@gmail.com
+twitter_username: arkwrn_
+github_username:  Lidilidian
+gplus_username:  loremipsum
+disqus_username:
+profile_picture: https://scontent-sit4-1.cdninstagram.com/t51.2885-19/s150x150/20393609_319860788461851_1508877974508666880_a.jpg
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
+timezone:      Asia/Jakarta
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: asciilang
+    url: https://github.com/victorvoid/asciilang
+  - name: vim-frontend
+    url: https://github.com/victorvoid/vim-frontend
+  - name: generator-capybara
+    url: https://github.com/victorvoid/generator-capybara
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

@@ -8,11 +8,10 @@ tags:
 description: ''
 categories:
 - Lomba
+comments: true
 ---
 
 Apa itu Besutkode ?. ([Besut Kode](http://wikimedia-id.github.io/besutkode/)) [Saya mengikuti tingkat Universitas] adalah kompetisi online pengembangan perangkat lunak bersumber terbuka untuk mahasiswa berumur 17-24 tahun. Mahasiswa diminta untuk memecahkan soal yang diberikan, dan mentor akan menyatakan peserta tersebut lolos ke putaran selanjutnya atau gugur. Peserta yang lolos, akan mendapatkan sertifikat.
-
-<!--more-->
 
 Sejauh ini saya mengikuti kompetisi ini [sejak 20 Oktober 2016 dimulai] sudah sangat banyak pengalaman baru yang saya dapatkan, terutama di dunia penerjemahan dan free open-source software, selama mengikuti Besutkode para peserta diberi tugas antara lain :
 

@@ -38,7 +38,7 @@ print(" x < y ", x < y)
 print(" x <= y ", x <= y)
 ```
 
-## Praktek -- (online editor)[https://repl.it/JluY]
+## Praktek -- ([Online Editor](https://repl.it/JluY/))
 
 - Silahkan eksekusi kode di atas dan lihat output yang akan dihasilkan
 - Buatlah variabel kalian sendiri dengan tipe data yang kalian suka dan coba tampilkan isi variabel tersebut dengan menggunakan print()

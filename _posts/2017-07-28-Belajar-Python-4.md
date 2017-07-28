@@ -19,9 +19,9 @@ Operator perbandingan di Python yang harus kalian ingat antara lain:
 
 -    ==, sama dengan. Karena tanda = digunakan untuk membentuk variabel.
 -    !=, tidak sama dengan
--    >, lebih dari
+-    \>, lebih dari
 -    <, kurang dari
--    >=, lebih dari sama dengan
+-    \>=, lebih dari sama dengan
 -    <=, kurang dari sama dengan
 
 Bila kalian terbiasa dengan matematika, maka tidak akan terlalu aneh jika kalian menemukan operator diatas.

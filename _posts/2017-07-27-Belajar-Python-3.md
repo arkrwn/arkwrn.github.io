@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pyhton - Operator Aritmatika"
+title:  "Python - Operator Aritmatika"
 image: ''
 date:   2017-07-27 00:05:30
 tags:

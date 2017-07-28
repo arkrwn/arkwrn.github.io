@@ -7,7 +7,7 @@ description: "See all post..."
 ---
 
 <h2>All Post</h2>
-{% for post in site.posts limit:100%}
+{% for post in site.posts %}
   <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</span>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}

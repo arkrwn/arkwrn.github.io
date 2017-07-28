@@ -7,7 +7,6 @@ description: "Take a look at my beautiful tags."
 
 <h2>Tags</h2>
 <div class="tags">
-{% include infeed-ads %}
 {% assign tags_list = site.tags %}
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}
@@ -29,7 +28,8 @@ description: "Take a look at my beautiful tags."
             {% if post.title != null %}
             {% if group == null or group == post.group %}
             <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
-            {% endif %}
+            <li>{% include infeed-ads %}</li>
+             {% endif %}
             {% endif %}
         {% endfor %}
         {% assign pages_list = nil %}

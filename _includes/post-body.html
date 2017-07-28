@@ -1,7 +1,8 @@
-<div class="content">
-        
+<header class="header-site" role="banner">
+    <div class="content">
+            
         <ul class="recent">
-            <p>All posts:</p>
+            <p>Recent posts:</p>
              {% for post in site.posts limit:100%}
                 <li>
                     <a title="Will take a my recent post" href="{{ post.url | prepend: site.baseurl }}">
@@ -11,5 +12,17 @@
               {% endfor %}
         </ul>
 
+        <ul class="recent">
+            <p>Recent projects:</p>
+             {% for project in site.projects limit:3%}
+                <li>
+                    <a title="Show my recent project" href="{{ project.url}}">
+                        <h2 class="post-title" itemprop="name">{{ project.name }}</h2>
+                    </a>
+                </li>
+              {% endfor %}
+        </ul>
+
     </div>
     {% include menu-search.html %}
+</header>

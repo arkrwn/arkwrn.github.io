@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pyhton - Tipe Data"
+title:  "Python - Tipe Data"
 image: ''
 date:   2017-07-25 00:05:30
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pyhton - Konversi Tipe Data"
+title:  "Python - Konversi Tipe Data"
 image: ''
 date:   2017-07-26 00:05:30
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pyhton - Operasator Pembanding"
+title:  "Python - Operasator Pembanding"
 image: ''
 date:   2017-07-28 00:05:30
 tags:

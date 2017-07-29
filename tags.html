@@ -28,7 +28,19 @@ description: "Take a look at my beautiful tags."
             {% if post.title != null %}
             {% if group == null or group == post.group %}
             <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
-            <li>{% include infeed-ads %}</li>
+            <li>
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-format="fluid"
+                     data-ad-layout="text-only"
+                     data-ad-layout-key="-gt-c+2u-36-31"
+                     data-ad-client="ca-pub-3480731228246521"
+                     data-ad-slot="9807694536"></ins>
+                <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </li>
              {% endif %}
             {% endif %}
         {% endfor %}
